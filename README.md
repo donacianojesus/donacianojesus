@@ -12,12 +12,11 @@ I love experimenting with different tech stacks, working on personal projects, a
 ---
 
 ## Technical Skills
-**Languages:** Python, JavaScript, C, Java, HTML, CSS  
-**Frontend:** React  
-**Backend:** Flask, Spring Boot, Node.js  
-**Databases:** PostgreSQL, SQLite, SQL  
-**Tools & IDEs:** VS Code, Cursor IDE, Windsurf IDE, Git, Claude AI  
-**Other Skills:** Machine Learning, REST APIs  
+**Languages**: Python, Java, C, JavaScript, TypeScript, HTML, CSS, SQL
+**Frameworks & Libraries**: Flask, Spring Boot, React.js, Node.js, Express.js, Pandas, NumPy, BeautifulSoup
+**Databases**: PostgreSQL, SQLite, MongoDB
+**Tools & Platforms**: Git, Docker, AWS, VS Code, IntelliJ IDEA, Eclipse
+**Other Skills**: REST APIs, Full-Stack Development, Cloud Deployment, Authentication & Security  
 
 ---
 
