@@ -15,7 +15,7 @@ I love experimenting with different tech stacks, working on personal projects, a
 **Languages:** Python, Java, C, JavaScript, TypeScript, HTML, CSS, SQL 
 **Frameworks & Libraries:** Flask, Spring Boot, React.js, Node.js, Express.js, Pandas, NumPy, BeautifulSoup 
 **Databases:** PostgreSQL, SQLite, MongoDB 
-**Tools & Platforms: **Git, Docker, AWS, VS Code, IntelliJ IDEA, Eclipse 
+**Tools & Platforms:** Git, Docker, AWS, VS Code, IntelliJ IDEA, Eclipse 
 **Other Skills:** REST APIs, Full-Stack Development, Cloud Deployment, Authentication & Security  
 
 ---
