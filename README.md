@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Jesus Donaciano
+Senior Computer Science student at the University of Scranton  
+Aspiring Software Engineer with a focus on full-stack development, AI/ML, and building practical, impactful applications.  
+Scranton, PA | Seeking a 2025/26 Software Engineering Internship  
 
-<!--
-**donacianojesus/donacianojesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Me
+I’m passionate about creating software that’s both functional and intuitive, whether it’s backend APIs, frontend interfaces, or machine learning-powered tools.  
+I love experimenting with different tech stacks, working on personal projects, and continuously refining my skills through hands-on development.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Skills
+**Languages:** Python, JavaScript, C, Java, HTML, CSS  
+**Frontend:** React  
+**Backend:** Flask, Spring Boot, Node.js  
+**Databases:** PostgreSQL, SQLite, SQL  
+**Tools & IDEs:** VS Code, Cursor IDE, Windsurf IDE, Git, Claude AI  
+**Other Skills:** Machine Learning, REST APIs  
+
+---
+
+## Current Projects
+
+- [VCT Predictor App](https://github.com/donacianojesus/VCTPredictorAPP) – A Flask-based web app that predicts Valorant Champions Tour match outcomes using Python, web scraping, and data analysis.  
+- **React/Node.js Demo App** – Full-stack demo project experimenting with modern SWE patterns and tooling.  
+- [WeBlog](https://github.com/donacianojesus/WeBlog) - A production-ready blogging platform built with Java, Maven, and PostgreSQL, featuring secure authentication via BCrypt and a layered architecture for maintainability and scalability.
+- [TCP GC App](https://github.com/donacianojesus/client_server_gc) - Implemented a chat application in C that enables real-time messaging between two clients over TCP, utilizing PostgreSQL, Docker, and AWS.
+- [File Upload Application](https://github.com/donacianojesus/File-Upload-Application) - Planned development of a full-stack web application enabling users to securely upload and manage files on Amazon S3. The backend will be powered by Spring Boot, providing robust cloud integration and secure file handling, while the frontend, built with React.js, will deliver an intuitive and seamless user experience.
+---
+
+## Goals for 2025
+- Land a software engineering internship  
+- Grow my skills in full-stack development and machine learning  
+- Build and ship more portfolio-ready projects  
+
+---
+
+## Contact Me
+**Email:** jesus.a.donaciano@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/jesus-donaciano/   
+**GitHub:** https://github.com/donacianojesus
