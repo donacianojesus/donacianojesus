@@ -31,7 +31,7 @@ I love experimenting with different tech stacks, working on personal projects, a
 
 ---
 
-## Goals for 2025
+## Goals for 2025/26
 - Land a software engineering internship  
 - Grow my skills in full-stack development and machine learning  
 - Build and ship more portfolio-ready projects  
