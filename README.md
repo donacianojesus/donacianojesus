@@ -12,7 +12,7 @@ I love experimenting with different tech stacks, working on personal projects, a
 ---
 
 ## Technical Skills
-**Languages:** Python, Java, C, JavaScript, TypeScript, HTML, CSS, SQL  
+**Languages:** Python, Java, C/C#, JavaScript, TypeScript, HTML, CSS, SQL  
 **Frameworks & Libraries:** Flask, Spring Boot, React.js, Node.js, Express.js, Pandas, NumPy, BeautifulSoup   
 **Databases:** PostgreSQL, SQLite, MongoDB  
 **Tools & Platforms:** Git, Docker, AWS, VS Code, IntelliJ IDEA, Eclipse, Cursor, Claude AI, OpenAI 
