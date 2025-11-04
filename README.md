@@ -1,16 +1,9 @@
-# Hi, I'm Jesus Donaciano
-Senior Computer Science student at the University of Scranton  
-Aspiring Software Engineer with a focus on full-stack development, AI/ML, and building practical, impactful applications.  
-Scranton, PA | Seeking a 2025/26 Software Engineering Internship  
+## 💫 About Me
+Hi, I'm **Jesus Donaciano**, a senior Computer Science student at the University of Scranton and an aspiring **Software Engineer** passionate about full-stack development, AI/ML, and building software that’s both practical and impactful.  
 
+I enjoy creating intuitive, efficient applications—from backend APIs to dynamic frontends—and constantly refine my skills through hands-on projects and exploration of modern tech stacks.  
+Currently based in **Scranton, PA**, I’m seeking a **2025/26 Software Engineering internship** to grow and contribute in a collaborative, real-world setting.
 ---
-
-## Me
-I’m passionate about creating software that’s both functional and intuitive, whether it’s backend APIs, frontend interfaces, or machine learning-powered tools.  
-I love experimenting with different tech stacks, working on personal projects, and continuously refining my skills through hands-on development.  
-
----
-
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
