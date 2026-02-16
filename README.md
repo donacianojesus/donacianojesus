@@ -2,8 +2,7 @@
 
 ## About Me
 I’m a senior Computer Science student at the University of Scranton and an aspiring Software Engineer passionate about full-stack development, AI/ML, and building software that’s practical and impactful.  
-Based in Scranton, PA, I’m currently seeking a 2025/26 Software Engineering internship to apply my skills and grow in a collaborative, real-world environment.
-
+Based in Scranton, PA
 ---
 ## 💻 Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
